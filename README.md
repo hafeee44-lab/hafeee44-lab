@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Muhammad Hafi. Backend and systems developer: offline-first tools, network protocols, AI pipelines.">
+  <img src="assets/hero-light.svg" width="100%" alt="Muhammad Hafi. Full-stack developer: web, desktop, Android, backend and AI, end to end.">
 </picture>
 
 <picture>
@@ -8,10 +8,10 @@
   <img src="assets/divider-about-light.svg" width="100%" alt="01 About">
 </picture>
 
-I'm a Computer Science student at **UET Taxila** and a freelance developer. I like software that has to survive the real world: no internet, an old Windows PC, a printer that only speaks USB, and a customer who will hold a ruler against the result.
+I'm a Computer Science student at **UET Taxila** and a freelance developer who builds whole products, from the interface down to the protocol. I like software that has to survive the real world: no internet, an old Windows PC, a printer that only speaks USB, and a customer who will hold a ruler against the result.
 
-- **Now** — building the backend of an AI-in-the-loop data pipeline for **AICON'26** at NUST (Next.js, TypeScript, Gemini)
-- **Usually** — Python services, Electron desktop apps, Android apps in Kotlin, Node.js
+- **Now** — building an AI-in-the-loop data pipeline for **AICON'26** at NUST (Next.js, TypeScript, Gemini)
+- **Usually** — web apps, Electron desktop apps, Android apps in Kotlin, and the Python and Node.js backends behind them
 - **How I build** — vibe coding with AI agents, then testing in the real world until it holds up
 - **Care about** — privacy by default, and getting it right to the millimetre
 
