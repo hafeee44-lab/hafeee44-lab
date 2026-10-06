@@ -21,18 +21,18 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer. I li
 </picture>
 
 <p align="center">
-  <picture>
+  <a href="https://github.com/hafeee44-lab/PrintBridge"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-printbridge-dark.svg">
-    <a href="https://github.com/hafeee44-lab/PrintBridge"><img src="assets/card-printbridge-light.svg" width="100%" alt="Print Bridge: share a USB printer and its scanner with every phone and laptop over Wi-Fi. Python, IPP, eSCL, Bonjour."></a>
-  </picture>
-  <picture>
+    <img src="assets/card-printbridge-light.svg" width="100%" alt="Print Bridge: share a USB printer and its scanner with every phone and laptop over Wi-Fi. Python, IPP, eSCL, Bonjour.">
+  </picture></a>
+  <a href="https://github.com/hafeee44-lab/duplex"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-duplex-dark.svg">
-    <a href="https://github.com/hafeee44-lab/duplex"><img src="assets/card-duplex-light.svg" width="49%" alt="Duplex: both sides of an ID card on one sheet at exact size, lined up back to back."></a>
-  </picture>
-  <picture>
+    <img src="assets/card-duplex-light.svg" width="49%" alt="Duplex: both sides of an ID card on one sheet at exact size, lined up back to back.">
+  </picture></a>
+  <a href="https://github.com/hafeee44-lab/quickprint"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-quickprint-dark.svg">
-    <a href="https://github.com/hafeee44-lab/quickprint"><img src="assets/card-quickprint-light.svg" width="49%" alt="QuickPrint: photo sheets for print shops at true physical size. Electron, offline."></a>
-  </picture>
+    <img src="assets/card-quickprint-light.svg" width="49%" alt="QuickPrint: photo sheets for print shops at true physical size. Electron, offline.">
+  </picture></a>
 </p>
 
 <p align="center"><sub>Try <a href="https://cnic-duplex.vercel.app">Duplex in your browser</a>. It runs offline and never uploads a photo.</sub></p>
