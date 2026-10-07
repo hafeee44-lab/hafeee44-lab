@@ -64,8 +64,18 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
 </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-activity-dark.svg">
+  <img src="assets/divider-activity-light.svg" width="100%" alt="04 Activity">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafeee44-lab/hafeee44-lab/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/hafeee44-lab/hafeee44-lab/output/snake-light.svg" width="100%" alt="A snake eating my GitHub contributions">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-contact-dark.svg">
-  <img src="assets/divider-contact-light.svg" width="100%" alt="04 Contact">
+  <img src="assets/divider-contact-light.svg" width="100%" alt="05 Contact">
 </picture>
 
 <p align="center">
