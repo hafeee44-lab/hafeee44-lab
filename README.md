@@ -34,7 +34,7 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-gpsalarm-dark.svg">
     <img src="assets/card-gpsalarm-light.svg" width="49%" alt="GPS Alarm on Google Play: a location alarm that wakes you before your stop, even offline.">
   </picture></a>
-  <a href="https://lift-workouts.vercel.app/"><picture>
+  <a href="https://lift-workouts-havlen.vercel.app/"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-lift-dark.svg">
     <img src="assets/card-lift-light.svg" width="49%" alt="Lift: my training log. It opens on the weight to lift next and works offline.">
   </picture></a>
@@ -52,7 +52,7 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
   </picture></a>
 </p>
 
-<p align="center"><sub>See them live: <a href="https://havlen-seven.vercel.app/">Havlen</a> · <a href="https://play.google.com/store/apps/details?id=com.hafi.locationalarm">GPS Alarm on Google Play</a> · <a href="https://lift-workouts.vercel.app/">Lift</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://cnic-duplex.vercel.app">Duplex</a></sub></p>
+<p align="center"><sub>See them live: <a href="https://havlen-seven.vercel.app/">Havlen</a> · <a href="https://play.google.com/store/apps/details?id=com.hafi.locationalarm">GPS Alarm on Google Play</a> · <a href="https://lift-workouts-havlen.vercel.app/">Lift</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://cnic-duplex.vercel.app">Duplex</a></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-hackathons-dark.svg">
