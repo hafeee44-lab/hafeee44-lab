@@ -11,7 +11,7 @@
 I'm a Computer Science student at **UET Taxila** and a freelance developer who builds whole products, from the interface down to the protocol. I like software that has to survive the real world: no internet, an old Windows PC, a printer that only speaks USB, and a customer who will hold a ruler against the result.
 
 - **Founder** — [Havlen](https://havlen-seven.vercel.app/), an AI receptionist that answers customers on WhatsApp and the web in English or Roman Urdu, books real appointments and hands over to staff when it should
-- **Now** — building an AI-in-the-loop data pipeline for **AICON'26** at NUST (Next.js, TypeScript, Gemini)
+- **Now** — growing Havlen
 - **Usually** — web apps, Electron desktop apps, Android apps in Kotlin, and the Python and Node.js backends behind them
 - **How I build** — vibe coding with AI agents, then testing in the real world until it holds up
 - **Care about** — privacy by default, and getting it right to the millimetre
@@ -34,6 +34,14 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-gpsalarm-dark.svg">
     <img src="assets/card-gpsalarm-light.svg" width="49%" alt="GPS Alarm on Google Play: a location alarm that wakes you before your stop, even offline.">
   </picture></a>
+  <a href="https://lift-workouts.vercel.app/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lift-dark.svg">
+    <img src="assets/card-lift-light.svg" width="49%" alt="Lift: my training log. It opens on the weight to lift next and works offline.">
+  </picture></a>
+  <a href="https://github.com/haiderimran019/Solvane"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-solvane-dark.svg">
+    <img src="assets/card-solvane-light.svg" width="49%" alt="Solvane, built with Haider: carries a project’s context from one AI chat into the next.">
+  </picture></a>
   <a href="https://github.com/hafeee44-lab/duplex"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-duplex-dark.svg">
     <img src="assets/card-duplex-light.svg" width="49%" alt="Duplex: both sides of an ID card on one sheet at exact size, lined up back to back.">
@@ -44,28 +52,51 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
   </picture></a>
 </p>
 
-<p align="center"><sub>See them live: <a href="https://havlen-seven.vercel.app/">Havlen</a> · <a href="https://play.google.com/store/apps/details?id=com.hafi.locationalarm">GPS Alarm on Google Play</a> · <a href="https://cnic-duplex.vercel.app">Duplex in your browser</a></sub></p>
+<p align="center"><sub>See them live: <a href="https://havlen-seven.vercel.app/">Havlen</a> · <a href="https://play.google.com/store/apps/details?id=com.hafi.locationalarm">GPS Alarm on Google Play</a> · <a href="https://lift-workouts.vercel.app/">Lift</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://cnic-duplex.vercel.app">Duplex</a></sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-hackathons-dark.svg">
+  <img src="assets/divider-hackathons-light.svg" width="100%" alt="03 Hackathons">
+</picture>
+
+<p align="center">
+  <a href="https://github.com/hafeee44-lab/aicon26-er-dashboard"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-ercommand-dark.svg">
+    <img src="assets/card-ercommand-light.svg" width="49%" alt="ER Command, built at AICON'26: caught 22 of 26 critical patients on 300 real ER visits, against 15 for triage nurses.">
+  </picture></a>
+  <a href="https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-nascon-dark.svg">
+    <img src="assets/card-nascon-light.svg" width="49%" alt="Multi-sport league platform built at NaSCon '26: NestJS API, offline-first Android app and live streaming.">
+  </picture></a>
+</p>
+
+<p align="center"><sub>Try the <a href="https://aicon26-er-dashboard-taupe.vercel.app">ER Command live demo</a>.</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-toolbox-dark.svg">
-  <img src="assets/divider-toolbox-light.svg" width="100%" alt="03 Toolbox">
+  <img src="assets/divider-toolbox-light.svg" width="100%" alt="04 Toolbox">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Chtml%2Ccss%2Cnodejs%2Cnextjs&theme=dark">
-    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Chtml%2Ccss%2Cnodejs%2Cnextjs&theme=light" alt="Python, TypeScript, JavaScript, Kotlin, HTML, CSS, Node.js, Next.js">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Chtml%2Ccss%2Cnodejs%2Creact&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Chtml%2Ccss%2Cnodejs%2Creact&theme=light" alt="Python, TypeScript, JavaScript, Kotlin, HTML, CSS, Node.js, React">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=electron%2Candroidstudio%2Cgit%2Cgithub%2Cgithubactions%2Cvercel%2Cwindows&theme=dark">
-    <img src="https://skillicons.dev/icons?i=electron%2Candroidstudio%2Cgit%2Cgithub%2Cgithubactions%2Cvercel%2Cwindows&theme=light" alt="Electron, Android Studio, Git, GitHub, GitHub Actions, Vercel, Windows">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Cnestjs%2Celectron%2Candroidstudio%2Cdocker%2Cpostgres%2Credis&theme=dark">
+    <img src="https://skillicons.dev/icons?i=nextjs%2Cnestjs%2Celectron%2Candroidstudio%2Cdocker%2Cpostgres%2Credis&theme=light" alt="Next.js, NestJS, Electron, Android Studio, Docker, PostgreSQL, Redis">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cvercel%2Ccloudflare%2Cwindows&theme=dark">
+    <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cvercel%2Ccloudflare%2Cwindows&theme=light" alt="Git, GitHub, GitHub Actions, Vercel, Cloudflare, Windows">
   </picture>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-activity-dark.svg">
-  <img src="assets/divider-activity-light.svg" width="100%" alt="04 Activity">
+  <img src="assets/divider-activity-light.svg" width="100%" alt="05 Activity">
 </picture>
 
 <picture>
@@ -75,7 +106,7 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-contact-dark.svg">
-  <img src="assets/divider-contact-light.svg" width="100%" alt="05 Contact">
+  <img src="assets/divider-contact-light.svg" width="100%" alt="06 Contact">
 </picture>
 
 <p align="center">
