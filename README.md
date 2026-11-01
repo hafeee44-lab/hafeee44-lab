@@ -148,4 +148,4 @@ Most of my work is web apps, Electron desktop apps, Android apps in Kotlin, and 
 </picture></a>
 </div>
 
-<sub><a href="mailto:hafeee44@gmail.com">hafeee44@gmail.com</a> · <a href="https://www.linkedin.com/in/muhammad-hafi-b37193222/">LinkedIn</a></sub>
+<p align="center"><sub><a href="mailto:hafeee44@gmail.com">hafeee44@gmail.com</a> · <a href="https://www.linkedin.com/in/muhammad-hafi-b37193222/">LinkedIn</a></sub></p>
