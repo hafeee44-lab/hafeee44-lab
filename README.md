@@ -26,6 +26,10 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-havlen-dark.svg">
     <img src="assets/card-havlen-light.svg" width="100%" alt="Havlen, my startup: an AI receptionist for WhatsApp and the web that replies in English or Roman Urdu and books real appointments.">
   </picture></a>
+  <a href="https://github.com/hafeee44-lab/Roshni"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-roshni-dark.svg">
+    <img src="assets/card-roshni-light.svg" width="100%" alt="Roshni: an open-source Android alarm for load-shedding. It watches a solar inverter, rings when the mains fail and says how long the battery lasts.">
+  </picture></a>
   <a href="https://github.com/hafeee44-lab/PrintBridge"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-printbridge-dark.svg">
     <img src="assets/card-printbridge-light.svg" width="49%" alt="Print Bridge: share a USB printer and its scanner with every phone in the house. Python, IPP, eSCL, Bonjour.">
@@ -52,7 +56,7 @@ I'm a Computer Science student at **UET Taxila** and a freelance developer who b
   </picture></a>
 </p>
 
-<p align="center"><sub>See them live: <a href="https://havlen-seven.vercel.app/">Havlen</a> · <a href="https://play.google.com/store/apps/details?id=com.hafi.locationalarm">GPS Alarm on Google Play</a> · <a href="https://lift-workouts-havlen.vercel.app/">Lift</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://cnic-duplex.vercel.app">Duplex</a></sub></p>
+<p align="center"><sub>See them live: <a href="https://havlen-seven.vercel.app/">Havlen</a> · <a href="https://github.com/hafeee44-lab/Roshni/releases/latest">Roshni APK</a> · <a href="https://play.google.com/store/apps/details?id=com.hafi.locationalarm">GPS Alarm on Google Play</a> · <a href="https://lift-workouts-havlen.vercel.app/">Lift</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://cnic-duplex.vercel.app">Duplex</a></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-hackathons-dark.svg">
